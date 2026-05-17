@@ -1,6 +1,7 @@
 export const businessConfig = {
   // Identity
   name: "Fugu Sushi",
+  category: "restaurant",
   tagline: "Il vero sapore di Oulx, servito con passione.",
   city: "Oulx",
 
@@ -8,6 +9,7 @@ export const businessConfig = {
   address: "Via Monginevro, 31, 10056 Oulx TO",
   phone: "+39 379 224 7336",
   email: "",
+  bookingUrl: "https://www.fugusushi.it/",
 
   // Online presence
   googleMapsUrl: "https://maps.google.com/?q=Via%20Monginevro%2C%2031%2C%2010056%20Oulx%20TO",
